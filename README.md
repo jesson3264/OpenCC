@@ -1,0 +1,2 @@
+# OpenCC
+C/C++ library
